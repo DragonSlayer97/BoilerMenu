@@ -1,0 +1,3 @@
+http://api.hfs.purdue.edu/menus/v2/retail
+http://api.hfs.purdue.edu/menus/v2/locations
+http://api.hfs.purdue.edu/menus/v2/file/
